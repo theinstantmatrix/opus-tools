@@ -1,3 +1,8 @@
+opus-tools (with unofficial binaries for Windows ARM64/AArch64 + x86-64, fork of [xiph/opus-tools](https://github.com/xiph/opus-tools)).  
+Downloads are hosted at the [releases](https://github.com/theinstantmatrix/opus-tools/releases) section.
+
+---
+
 # Opus Audio Tools
 
 [![pipeline status](https://gitlab.xiph.org/xiph/opus-tools/badges/master/pipeline.svg)](https://gitlab.xiph.org/xiph/opus-tools/commits/master)
